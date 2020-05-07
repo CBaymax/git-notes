@@ -1,2 +1,2 @@
 # git-notes
-CBaymax ‘s Git Notes. (o-o)
+[CBaymax ‘s Git Notes](./Git.md). (o-o)
